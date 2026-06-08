@@ -22,7 +22,7 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 
 - <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Mar 2026</span>
   <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#ede9fe; color:#6d28d9; font-size:0.82em; font-weight:600;">ICME 2026</span>
-  My second-author paper, [*GeoMag: Geometric-Aware Video Motion Magnification via State Space Model*](#), was accepted to ICME 2026 (CCF-B).
+  My co-first-author paper, [*GeoMag: Geometric-Aware Video Motion Magnification via State Space Model*](https://arxiv.org/abs/2605.29762), was accepted to ICME 2026 Spotlight🌟 (CCF-B).
 
 - <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Feb 2026</span>
   <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c; font-size:0.82em; font-weight:600;">CVPR 2026</span>
@@ -43,3 +43,64 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 - <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">2022</span>
   <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#e0f2fe; color:#0369a1; font-size:0.82em; font-weight:600;">EI Journal</span>
   My second-author paper and first published academic work, [*Identification of Wheat Stripe Rust and Yellow Dwarf by Improved Faster-RCNN*](https://tcsae.org/cn/article/Y2022/I17/176), was accepted by *Transactions of the Chinese Society of Agricultural Engineering*.
+
+
+## Education 🧑‍🎓
+
+- **B.Eng. in Software Engineering**, Northwest A&F University, Sep 2020 - Jul 2024
+- **M.Eng. in Software Engineering** (expected), Xi'an Jiaotong University, Sep 2024 - Jul 2027
+
+## Research Interests 🧐
+
+- Multimodal Content Understanding
+- Intelligent Agriculture
+- Computer Vision
+
+
+## Awards 🏆
+
+<ul style="list-style:none; padding-left:0; margin:0;">
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dbeafe; color:#1d4ed8; font-size:0.8em; font-weight:600;">Academic</span>
+    <strong>National Scholarship</strong>
+  </li>
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dbeafe; color:#1d4ed8; font-size:0.8em; font-weight:600;">Academic</span>
+    <strong>Outstanding Graduate of Northwest A&amp;F University</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">Class of 2024, Top 3%</span>
+  </li>
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dbeafe; color:#1d4ed8; font-size:0.8em; font-weight:600;">Academic</span>
+    <strong>Outstanding Undergraduate Thesis of Northwest A&amp;F University</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">2024, Top 1.9%</span>
+  </li>
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dcfce7; color:#15803d; font-size:0.8em; font-weight:600;">Sports</span>
+    <span style="display:inline-block; padding:2px 8px; border-radius:999px; background:#fef3c7; color:#b45309; font-size:0.8em; font-weight:600;">Champion</span><br>
+    <strong>2000m Rowing Relay Team Event</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">62nd XJTU Sports Meeting</span>
+  </li>
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dcfce7; color:#15803d; font-size:0.8em; font-weight:600;">Sports</span>
+    <span style="display:inline-block; padding:2px 8px; border-radius:999px; background:#fef3c7; color:#b45309; font-size:0.8em; font-weight:600;">Champion</span><br>
+    <strong>1000m Rowing Ergometer</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">40th XJTU Fitness Month</span>
+  </li>
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dcfce7; color:#15803d; font-size:0.8em; font-weight:600;">Sports</span>
+    <span style="display:inline-block; padding:2px 8px; border-radius:999px; background:#e5e7eb; color:#4b5563; font-size:0.8em; font-weight:600;">Runner-up</span><br>
+    <strong>1-Minute Timed Rowing Ergometer</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">40th XJTU Fitness Month</span>
+  </li>
+  <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#dcfce7; color:#15803d; font-size:0.8em; font-weight:600;">Sports</span>
+    <span style="display:inline-block; padding:2px 8px; border-radius:999px; background:#fde68a; color:#92400e; font-size:0.8em; font-weight:600;">Third Place</span><br>
+    <strong>80kg Bench Press Repetition Event</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">Innovation Harbor-Oxen Competition</span>
+  </li>
+  <li style="margin:0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">
+    <span style="display:inline-block; margin-right:8px; padding:2px 8px; border-radius:999px; background:#ede9fe; color:#6d28d9; font-size:0.8em; font-weight:600;">Leadership</span>
+    <strong>Multiple Honors</strong><br>
+    <span style="color:#6b7280; font-size:0.95em;">Including Outstanding Graduate Student Cadre, Outstanding Student Cadre, and Outstanding University Student</span>
+  </li>
+</ul>
