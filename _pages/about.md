@@ -109,87 +109,65 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 
 <section class="about-gallery" aria-labelledby="sports-gallery-title">
   <h2 id="sports-gallery-title">Sports Gallery 📸</h2>
-  <p class="about-gallery__intro">
-    Moments from rowing competitions, fitness events, and team activities.
-  </p>
-  <div class="about-gallery__marquee">
-    <div class="about-gallery__track">
-      <div class="about-gallery__group" aria-hidden="false">
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/2nd_prize.png' | relative_url }}" alt="Honorary credential for runner-up in the 1-minute timed rowing ergometer event." loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Runner-up, 1-Minute Timed Rowing Ergometer</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/sports_pic1.png' | relative_url }}" alt="A photo taken at a strength competition event." loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Strength Competition Snapshot</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/sports_pic2.jpg' | relative_url }}" alt="A rowing ergometer race in progress." loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Rowing Ergometer Race Day</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/sports_pic3.jpg' | relative_url }}" alt="A group photo of the rowing team." loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Rowing Team Group Photo</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/team_champon.png' | relative_url }}" alt="Award certificate for the champion title in the 2000m rowing relay team event." loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Champion, 2000m Rowing Relay Team Event</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/champion.png' | relative_url }}" alt="Honorary credential for the champion title in the 1000m rowing ergometer event." loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Champion, 1000m Rowing Ergometer</figcaption>
-        </figure>
-      </div>
-      <div class="about-gallery__group" aria-hidden="true">
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/2nd_prize.png' | relative_url }}" alt="" loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Runner-up, 1-Minute Timed Rowing Ergometer</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/sports_pic1.png' | relative_url }}" alt="" loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Strength Competition Snapshot</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/sports_pic2.jpg' | relative_url }}" alt="" loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Rowing Ergometer Race Day</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/sports_pic3.jpg' | relative_url }}" alt="" loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Rowing Team Group Photo</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/team_champon.png' | relative_url }}" alt="" loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Champion, 2000m Rowing Relay Team Event</figcaption>
-        </figure>
-        <figure class="about-gallery__item">
-          <div class="about-gallery__media">
-            <img src="{{ '/images/champion.png' | relative_url }}" alt="" loading="lazy">
-          </div>
-          <figcaption class="about-gallery__caption">Champion, 1000m Rowing Ergometer</figcaption>
-        </figure>
-      </div>
+  <div class="about-gallery__banner" data-gallery-banner>
+    <div class="about-gallery__track" data-gallery-track>
+      <figure class="about-gallery__thumb">
+        <img src="{{ '/images/2nd_prize.png' | relative_url }}" alt="Honorary credential for runner-up in the 1-minute timed rowing ergometer event." loading="lazy">
+      </figure>
+      <figure class="about-gallery__thumb">
+        <img src="{{ '/images/sports_pic1.png' | relative_url }}" alt="A photo taken at a strength competition event." loading="lazy">
+      </figure>
+      <figure class="about-gallery__thumb">
+        <img src="{{ '/images/sports_pic2.jpg' | relative_url }}" alt="A rowing ergometer race in progress." loading="lazy">
+      </figure>
+      <figure class="about-gallery__thumb">
+        <img src="{{ '/images/sports_pic3.jpg' | relative_url }}" alt="A group photo of the rowing team." loading="lazy">
+      </figure>
+      <figure class="about-gallery__thumb">
+        <img src="{{ '/images/team_champon.png' | relative_url }}" alt="Award certificate for the champion title in the 2000m rowing relay team event." loading="lazy">
+      </figure>
+      <figure class="about-gallery__thumb">
+        <img src="{{ '/images/champion.png' | relative_url }}" alt="Honorary credential for the champion title in the 1000m rowing ergometer event." loading="lazy">
+      </figure>
     </div>
   </div>
 </section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var banner = document.querySelector("[data-gallery-banner]");
+    var track = document.querySelector("[data-gallery-track]");
+
+    if (!banner || !track || track.dataset.enhanced === "true") {
+      return;
+    }
+
+    var items = Array.prototype.slice.call(track.children);
+
+    for (var i = items.length - 1; i > 0; i -= 1) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var temp = items[i];
+      items[i] = items[j];
+      items[j] = temp;
+    }
+
+    track.innerHTML = "";
+    items.forEach(function (item) {
+      track.appendChild(item);
+    });
+
+    items.forEach(function (item) {
+      var clone = item.cloneNode(true);
+      clone.setAttribute("aria-hidden", "true");
+      var img = clone.querySelector("img");
+
+      if (img) {
+        img.alt = "";
+      }
+
+      track.appendChild(clone);
+    });
+
+    track.dataset.enhanced = "true";
+  });
+</script>
