@@ -14,6 +14,12 @@ I received my bachelor's degree in Software Engineering from Northwest A&F Unive
 I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi'an Jiaotong University, and I also collaborate with [Prof. Yaxiong Wang](https://faculty.hfut.edu.cn/~bAb2ea/zh_CN/) and [Prof. Zhedong Zheng](https://www.zdzheng.xyz/) on multimodal content understanding, with particular interests in misinformation detection and agent navigation.
 
 
+## Education 🧑‍🎓
+
+- **B.Eng. in Software Engineering**, Northwest A&F University, Sep 2020 - Jul 2024
+- **M.Eng. in Software Engineering** (expected), Xi'an Jiaotong University, Sep 2024 - Jul 2027
+
+
 ## News 🎉
 
 - <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Apr 2026</span>
@@ -45,10 +51,6 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
   My second-author paper and first published academic work, [*Identification of Wheat Stripe Rust and Yellow Dwarf by Improved Faster-RCNN*](https://tcsae.org/cn/article/Y2022/I17/176), was accepted by *Transactions of the Chinese Society of Agricultural Engineering*.
 
 
-## Education 🧑‍🎓
-
-- **B.Eng. in Software Engineering**, Northwest A&F University, Sep 2020 - Jul 2024
-- **M.Eng. in Software Engineering** (expected), Xi'an Jiaotong University, Sep 2024 - Jul 2027
 
 ## Research Interests 🧐
 
