@@ -17,7 +17,7 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 ## Education 🧑‍🎓
 
 - **B.Eng. in Software Engineering**, Northwest A&F University, Sep 2020 - Jul 2024
-- **M.Eng. in Software Engineering** (expected), Xi'an Jiaotong University, Sep 2024 - Jul 2027
+- **M.Eng. in Software Engineering**, Xi'an Jiaotong University, Sep 2024 - Jul 2027 (expected)
 
 
 ## News 🎉
