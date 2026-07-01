@@ -59,6 +59,14 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 - Computer Vision
 
 
+## Academic Service 📝
+
+**Reviewer**
+
+ACM SIGIR · IJCNN
+
+
+
 ## Awards 🏆
 
 <ul style="list-style:none; padding-left:0; margin:0;">
