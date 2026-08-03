@@ -16,8 +16,28 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 
 ## Education 🧑‍🎓
 
-- **B.Eng. in Software Engineering**, Northwest A&F University, Sep 2020 - Jul 2024
-- **M.Eng. in Software Engineering**, Xi'an Jiaotong University, Sep 2024 - Jul 2027 (expected)
+<section class="education-timeline" aria-label="Education">
+  <article class="education-card">
+    <div class="education-card__logo">
+      <img src="{{ '/images/xjtu.png' | relative_url }}" alt="Xi'an Jiaotong University logo" loading="lazy">
+    </div>
+    <div class="education-card__body">
+      <div class="education-card__meta">Sep 2024 - Jul 2027 (expected)</div>
+      <h3>M.Eng. in Software Engineering</h3>
+      <p>Xi'an Jiaotong University</p>
+    </div>
+  </article>
+  <article class="education-card">
+    <div class="education-card__logo">
+      <img src="{{ '/images/nwafu.png' | relative_url }}" alt="Northwest A&F University logo" loading="lazy">
+    </div>
+    <div class="education-card__body">
+      <div class="education-card__meta">Sep 2020 - Jul 2024</div>
+      <h3>B.Eng. in Software Engineering</h3>
+      <p>Northwest A&amp;F University</p>
+    </div>
+  </article>
+</section>
 
 
 ## Internship Experience 💼
@@ -80,16 +100,31 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 
 ## Research Interests 🧐
 
-- Multimodal Content Understanding
-- Intelligent Agriculture
-- Computer Vision
+<section class="research-interest-grid" aria-label="Research interests">
+  <article class="research-interest-card">
+    <h3>Multimodal Content Understanding</h3>
+    <p>Misinformation detection, multimodal reasoning, and trustworthy content analysis.</p>
+  </article>
+  <article class="research-interest-card">
+    <h3>Intelligent Agriculture</h3>
+    <p>AI-driven perception and analysis for agricultural monitoring and disease detection.</p>
+  </article>
+  <article class="research-interest-card">
+    <h3>Computer Vision</h3>
+    <p>Visual representation learning, forgery detection, and robust scene understanding.</p>
+  </article>
+</section>
 
 
 ## Academic Service 📝
 
-**Reviewer**
-
-ACM SIGIR · IJCNN
+<section class="academic-service-panel" aria-label="Academic service">
+  <div class="academic-service-panel__label">Reviewer</div>
+  <div class="academic-service-panel__venues">
+    <span>ACM SIGIR</span>
+    <span>IJCNN</span>
+  </div>
+</section>
 
 
 

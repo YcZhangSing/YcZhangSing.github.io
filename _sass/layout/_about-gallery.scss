@@ -1,3 +1,60 @@
+.education-timeline {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0.7rem 0 2rem;
+}
+
+.education-card {
+  display: grid;
+  grid-template-columns: 78px minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 10px;
+  background: var(--global-bg-color);
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
+}
+
+.education-card__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+  height: 62px;
+  padding: 0.35rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 50%;
+  background: var(--global-code-background-color);
+}
+
+.education-card__logo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.education-card__body h3 {
+  margin: 0.12rem 0 0.2rem;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.education-card__body p {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+}
+
+.education-card__meta {
+  color: var(--global-link-color);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
 .internship-timeline {
   display: grid;
   gap: 0.85rem;
@@ -53,7 +110,87 @@
   text-transform: uppercase;
 }
 
+.research-interest-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin: 0.7rem 0 2rem;
+}
+
+.research-interest-card {
+  min-height: 132px;
+  padding: 1rem 1.05rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 10px;
+  background: var(--global-bg-color);
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
+}
+
+.research-interest-card h3 {
+  margin: 0 0 0.45rem;
+  font-size: 0.98rem;
+  line-height: 1.35;
+}
+
+.research-interest-card p {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.academic-service-panel {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0.7rem 0 2rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 10px;
+  background: var(--global-bg-color);
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
+}
+
+.academic-service-panel__label {
+  flex: 0 0 auto;
+  color: var(--global-link-color);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.academic-service-panel__venues {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.academic-service-panel__venues span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  color: var(--global-text-color);
+  background: var(--global-code-background-color);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
 @media (max-width: 520px) {
+  .education-card {
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 0.8rem;
+    padding: 0.9rem;
+  }
+
+  .education-card__logo {
+    width: 54px;
+    height: 54px;
+  }
+
   .internship-card {
     grid-template-columns: 76px minmax(0, 1fr);
     gap: 0.8rem;
@@ -62,6 +199,18 @@
 
   .internship-card__logo {
     min-height: 52px;
+  }
+
+  .academic-service-panel {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+}
+
+@media (max-width: 860px) {
+  .research-interest-grid {
+    grid-template-columns: 1fr;
   }
 }
 
