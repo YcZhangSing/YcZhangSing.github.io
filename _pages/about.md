@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at the China Telecom Artificial Intelligence Research Institute (TeleAI). My research focuses on explainable forgery detection, multimodal misinformation understanding, and AI for intelligent agriculture.
+I am currently a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at Tencent. My research focuses on explainable forgery detection, multimodal misinformation understanding, and AI for intelligent agriculture.
 
 I received my bachelor's degree in Software Engineering from Northwest A&F University, where I worked with [Prof. Rui Mao](https://cie.nwsuaf.edu.cn/szdw/fjs/2008116098/index.htm) and [Prof. Meili Wang](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm) on intelligent agriculture.
 
@@ -18,6 +18,32 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
 
 - **B.Eng. in Software Engineering**, Northwest A&F University, Sep 2020 - Jul 2024
 - **M.Eng. in Software Engineering**, Xi'an Jiaotong University, Sep 2024 - Jul 2027 (expected)
+
+
+## Internship Experience 💼
+
+<section class="internship-timeline" aria-label="Internship experience">
+  <article class="internship-card">
+    <div class="internship-card__logo">
+      <img src="{{ '/images/tencent.png' | relative_url }}" alt="Tencent logo" loading="lazy">
+    </div>
+    <div class="internship-card__body">
+      <div class="internship-card__meta">Aug 2026 - Present</div>
+      <h3>Tencent</h3>
+      <p>Research Intern at Weixin Group</p>
+    </div>
+  </article>
+  <article class="internship-card">
+    <div class="internship-card__logo">
+      <img src="{{ '/images/TeleAI.png' | relative_url }}" alt="TeleAI logo" loading="lazy">
+    </div>
+    <div class="internship-card__body">
+      <div class="internship-card__meta">Apr 2026 - Jul 2026</div>
+      <h3>China Telecom Artificial Intelligence Research Institute (TeleAI)</h3>
+      <p>Research Intern at Visual Understanding Research and Development Center</p>
+    </div>
+  </article>
+</section>
 
 
 ## News 🎉
