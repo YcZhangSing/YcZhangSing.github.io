@@ -108,7 +108,7 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
     <div class="preprint-card__body">
       <h3>STEPGUARD: Guarding Web Navigation via Single-Step Calibration</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2606.17871" target="_blank" rel="noopener noreferrer">Paper</a>
+        <a href="https://arxiv.org/abs/2606.17871" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
       </div>
     </div>
   </article>
@@ -120,8 +120,8 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
     <div class="preprint-card__body">
       <h3>Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2509.25991" target="_blank" rel="noopener noreferrer">Paper</a>
-        <a href="https://0112hy.github.io/OmniFakeWeb/" target="_blank" rel="noopener noreferrer">Website</a>
+        <a href="https://arxiv.org/abs/2509.25991" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://0112hy.github.io/OmniFakeWeb/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Website</span></a>
       </div>
     </div>
   </article>
@@ -133,8 +133,8 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
     <div class="preprint-card__body">
       <h3>REVEAL: Reference-Grounded Reasoning for Multimodal Manipulation Detection</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2605.28459" target="_blank" rel="noopener noreferrer">Paper</a>
-        <a href="https://anonymous.4open.science/r/REVEAL-Reference-A006" target="_blank" rel="noopener noreferrer">Git</a>
+        <a href="https://arxiv.org/abs/2605.28459" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://anonymous.4open.science/r/REVEAL-Reference-A006" target="_blank" rel="noopener noreferrer"><i class="fas fa-code" aria-hidden="true"></i><span>Code</span></a>
       </div>
     </div>
   </article>
@@ -146,8 +146,8 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
     <div class="preprint-card__body">
       <h3>OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2605.16962" target="_blank" rel="noopener noreferrer">Paper</a>
-        <a href="https://github.com/shen8424/OmniVL-Guard-Pro" target="_blank" rel="noopener noreferrer">Git</a>
+        <a href="https://arxiv.org/abs/2605.16962" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://github.com/shen8424/OmniVL-Guard-Pro" target="_blank" rel="noopener noreferrer"><i class="fas fa-code" aria-hidden="true"></i><span>Code</span></a>
       </div>
     </div>
   </article>

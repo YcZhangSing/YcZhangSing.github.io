@@ -165,6 +165,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 0.38rem;
   min-height: 32px;
   padding: 0.32rem 0.8rem;
   border: 1px solid var(--global-border-color);
@@ -176,6 +177,10 @@
   line-height: 1;
   text-decoration: none;
   transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.preprint-card__links a i {
+  font-size: 0.82rem;
 }
 
 .preprint-card__links a:hover {
