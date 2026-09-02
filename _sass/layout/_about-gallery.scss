@@ -201,6 +201,16 @@
     min-height: 52px;
   }
 
+  .preprint-card {
+    grid-template-columns: 1fr;
+    gap: 0.9rem;
+    padding: 0.9rem;
+  }
+
+  .preprint-card__thumb {
+    min-height: 148px;
+  }
+
   .academic-service-panel {
     align-items: flex-start;
     flex-direction: column;
@@ -209,6 +219,10 @@
 }
 
 @media (max-width: 860px) {
+  .preprint-card {
+    grid-template-columns: 156px minmax(0, 1fr);
+  }
+
   .research-interest-grid {
     grid-template-columns: 1fr;
   }
