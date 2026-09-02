@@ -110,6 +110,80 @@
   text-transform: uppercase;
 }
 
+.preprint-timeline {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0.7rem 0 2rem;
+}
+
+.preprint-card {
+  display: grid;
+  grid-template-columns: 112px minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 10px;
+  background: var(--global-bg-color);
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
+}
+
+.preprint-card__thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 76px;
+  padding: 0.25rem;
+  border-radius: 8px;
+  background: var(--global-code-background-color);
+  overflow: hidden;
+}
+
+.preprint-card__thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.preprint-card__body h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.preprint-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 0.7rem;
+}
+
+.preprint-card__links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  padding: 0.32rem 0.8rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  background: var(--global-code-background-color);
+  color: var(--global-link-color);
+  font-size: 0.86rem;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.preprint-card__links a:hover {
+  background: rgba(219, 234, 254, 0.7);
+  border-color: rgba(59, 130, 246, 0.35);
+  transform: translateY(-1px);
+}
+
 .research-interest-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -202,13 +276,23 @@
   }
 
   .preprint-card {
-    grid-template-columns: 1fr;
-    gap: 0.9rem;
+    grid-template-columns: 86px minmax(0, 1fr);
+    gap: 0.8rem;
     padding: 0.9rem;
   }
 
   .preprint-card__thumb {
-    min-height: 148px;
+    width: 86px;
+    height: 64px;
+  }
+
+  .preprint-card__body h3 {
+    font-size: 0.94rem;
+  }
+
+  .preprint-card__links {
+    gap: 0.45rem;
+    margin-top: 0.6rem;
   }
 
   .academic-service-panel {
@@ -220,7 +304,12 @@
 
 @media (max-width: 860px) {
   .preprint-card {
-    grid-template-columns: 156px minmax(0, 1fr);
+    grid-template-columns: 100px minmax(0, 1fr);
+  }
+
+  .preprint-card__thumb {
+    width: 100px;
+    height: 70px;
   }
 
   .research-interest-grid {

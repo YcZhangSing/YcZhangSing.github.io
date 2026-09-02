@@ -106,13 +106,9 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
       <img src="{{ '/images/2606.17871.png' | relative_url }}" alt="Thumbnail for StepGuard: Guarding Web Navigation via Single-Step Calibration" loading="lazy">
     </div>
     <div class="preprint-card__body">
-      <div class="preprint-card__meta">
-        <span class="preprint-card__tag">arXiv 2606.17871</span>
-        <span class="preprint-card__status">Preprint</span>
-      </div>
       <h3>STEPGUARD: Guarding Web Navigation via Single-Step Calibration</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2606.17871" target="_blank" rel="noopener noreferrer">paper</a>
+        <a href="https://arxiv.org/abs/2606.17871" target="_blank" rel="noopener noreferrer">Paper</a>
       </div>
     </div>
   </article>
@@ -122,14 +118,10 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
       <img src="{{ '/images/2509.25991.png' | relative_url }}" alt="Thumbnail for Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline" loading="lazy">
     </div>
     <div class="preprint-card__body">
-      <div class="preprint-card__meta">
-        <span class="preprint-card__tag">arXiv 2509.25991</span>
-        <span class="preprint-card__status">Preprint</span>
-      </div>
       <h3>Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2509.25991" target="_blank" rel="noopener noreferrer">paper</a>
-        <a href="https://0112hy.github.io/OmniFakeWeb/" target="_blank" rel="noopener noreferrer">website</a>
+        <a href="https://arxiv.org/abs/2509.25991" target="_blank" rel="noopener noreferrer">Paper</a>
+        <a href="https://0112hy.github.io/OmniFakeWeb/" target="_blank" rel="noopener noreferrer">Website</a>
       </div>
     </div>
   </article>
@@ -139,14 +131,10 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
       <img src="{{ '/images/2605.28459.png' | relative_url }}" alt="Thumbnail for REVEAL: Reference-Grounded Reasoning for Multimodal Manipulation Detection" loading="lazy">
     </div>
     <div class="preprint-card__body">
-      <div class="preprint-card__meta">
-        <span class="preprint-card__tag">arXiv 2605.28459</span>
-        <span class="preprint-card__status">Preprint</span>
-      </div>
       <h3>REVEAL: Reference-Grounded Reasoning for Multimodal Manipulation Detection</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2605.28459" target="_blank" rel="noopener noreferrer">paper</a>
-        <a href="https://anonymous.4open.science/r/REVEAL-Reference-A006" target="_blank" rel="noopener noreferrer">git</a>
+        <a href="https://arxiv.org/abs/2605.28459" target="_blank" rel="noopener noreferrer">Paper</a>
+        <a href="https://anonymous.4open.science/r/REVEAL-Reference-A006" target="_blank" rel="noopener noreferrer">Git</a>
       </div>
     </div>
   </article>
@@ -156,14 +144,10 @@ I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi
       <img src="{{ '/images/2605.16962.png' | relative_url }}" alt="Thumbnail for OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics" loading="lazy">
     </div>
     <div class="preprint-card__body">
-      <div class="preprint-card__meta">
-        <span class="preprint-card__tag">arXiv 2605.16962</span>
-        <span class="preprint-card__status">Preprint</span>
-      </div>
       <h3>OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics</h3>
       <div class="preprint-card__links">
-        <a href="https://arxiv.org/abs/2605.16962" target="_blank" rel="noopener noreferrer">paper</a>
-        <a href="https://github.com/shen8424/OmniVL-Guard-Pro" target="_blank" rel="noopener noreferrer">git</a>
+        <a href="https://arxiv.org/abs/2605.16962" target="_blank" rel="noopener noreferrer">Paper</a>
+        <a href="https://github.com/shen8424/OmniVL-Guard-Pro" target="_blank" rel="noopener noreferrer">Git</a>
       </div>
     </div>
   </article>
