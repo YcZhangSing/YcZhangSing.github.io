@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at Tencent. My research focuses on explainable forgery detection, multimodal misinformation understanding, and AI for intelligent agriculture.
+I am currently a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at Tencent. I will soon begin my Ph.D. studies at The Hong Kong Polytechnic University under the supervision of [Prof. Jiaxing Huang](https://jxhuang0508.github.io). My research focuses on explainable forgery detection, multimodal misinformation understanding, and AI for intelligent agriculture.
 
 I received my bachelor's degree in Software Engineering from Northwest A&F University, where I worked with [Prof. Rui Mao](https://cie.nwsuaf.edu.cn/szdw/fjs/2008116098/index.htm) and [Prof. Meili Wang](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm) on intelligent agriculture.
 
