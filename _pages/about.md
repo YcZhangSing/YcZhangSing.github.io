@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at Tencent. I will soon begin my Ph.D. studies at The Hong Kong Polytechnic University under the supervision of [Prof. Jiaxing Huang](https://jxhuang0508.github.io). My research focuses on explainable forgery detection, multimodal misinformation understanding, and AI for intelligent agriculture.
+I am a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at Tencent. I will soon begin my Ph.D. studies at The Hong Kong Polytechnic University under the supervision of [Prof. Jiaxing Huang](https://jxhuang0508.github.io) and [Prof. Chengqi Zhang](https://chengqi-zhang.github.io). My research focuses on computer vision and AI safety.
 
-I received my bachelor's degree in Software Engineering from Northwest A&F University, where I worked with [Prof. Rui Mao](https://cie.nwsuaf.edu.cn/szdw/fjs/2008116098/index.htm) and [Prof. Meili Wang](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm) on intelligent agriculture.
+I received my bachelor's degree from Northwest A&F University, where I worked with [Prof. Rui Mao](https://cie.nwsuaf.edu.cn/szdw/fjs/2008116098/index.htm) and [Prof. Meili Wang](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm) on intelligent agriculture.
 
-I am currently advised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli) at Xi'an Jiaotong University, and I also collaborate with [Prof. Yaxiong Wang](https://faculty.hfut.edu.cn/~bAb2ea/zh_CN/) and [Prof. Zhedong Zheng](https://www.zdzheng.xyz/) on multimodal content understanding, with particular interests in misinformation detection and agent navigation.
+My master's research is supervised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/zhuli). I also collaborate with [Prof. Yaxiong Wang](https://faculty.hfut.edu.cn/~bAb2ea/zh_CN/) and [Prof. Zhedong Zheng](https://www.zdzheng.xyz/) on multimodal content understanding, particularly in misinformation detection and agent navigation.
 
 
 ## Education 🧑‍🎓
