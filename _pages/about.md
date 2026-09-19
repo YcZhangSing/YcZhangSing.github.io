@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<span class="anchor" id="about-me"></span>
+
 I am a Master's student in Software Engineering at Xi'an Jiaotong University and a Research Intern at Tencent. I will soon begin my Ph.D. studies at The Hong Kong Polytechnic University under the supervision of [Prof. Jiaxing Huang](https://jxhuang0508.github.io) and [Prof. Chengqi Zhang](https://chengqi-zhang.github.io). My research focuses on computer vision and AI safety.
 
 I received my bachelor's degree from Northwest A&F University, where I worked with [Prof. Rui Mao](https://cie.nwsuaf.edu.cn/szdw/fjs/2008116098/index.htm) and [Prof. Meili Wang](https://cie.nwsuaf.edu.cn/szdw/js/2012110003/index.htm) on intelligent agriculture.
@@ -67,38 +69,100 @@ My master's research is supervised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/
 
 
 ## News 🎉
+{: #news}
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Apr 2026</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#dbeafe; color:#1d4ed8; font-size:0.82em; font-weight:600;">ACL 2026</span>
-  My first-author paper, [*Process Over Outcome: Cultivating Forensic Reasoning for Generalizable Multimodal Manipulation Detection*](https://arxiv.org/abs/2603.01993), was accepted to ACL 2026 (CCF-A main conference).
+- [2026] One paper is accepted by ACL 2026 (first author).
+- [2026] One paper is accepted by ICME 2026 (co-first author). <span style="color:red">(Spotlight)</span>
+- [2026] One paper is accepted by CVPR 2026 (first author).
+- [2025] One paper is accepted by Computers and Electronics in Agriculture (first author).
+- [2025] One paper is accepted by Computers and Electronics in Agriculture.
+- [2024] One paper is accepted by Precision Agriculture (co-first author).
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Mar 2026</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#ede9fe; color:#6d28d9; font-size:0.82em; font-weight:600;">ICME 2026</span>
-  My co-first-author paper, [*GeoMag: Geometric-Aware Video Motion Magnification via State Space Model*](https://arxiv.org/abs/2605.29762), was accepted to ICME 2026 Spotlight🌟 (CCF-B).
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Feb 2026</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#fee2e2; color:#b91c1c; font-size:0.82em; font-weight:600;">CVPR 2026</span>
-  My first-author paper, [*The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts*](https://arxiv.org/abs/2505.17476), was accepted to CVPR 2026 (CCF-A main conference).
+## Publications
+{: #publications}
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Mar 2025</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#dcfce7; color:#15803d; font-size:0.82em; font-weight:600;">Comput. Electron. Agric.</span>
-  My first-author paper, [*Unsupervised domain adaptation semantic segmentation method for wheat disease detection based on UAV multispectral images*](https://doi.org/10.1016/j.compag.2025.110473), was accepted by *Computers and Electronics in Agriculture* (CAS Q1 TOP).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src="{{ '/images/ACL26.png' | relative_url }}" alt="ACL 2026 paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Jan 2025</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#dcfce7; color:#15803d; font-size:0.82em; font-weight:600;">Comput. Electron. Agric.</span>
-  My third-author paper, [*Detecting wheat yellow dwarf disease by employing a Dual-Branch multiscale model from UAV multispectral images*](https://doi.org/10.1016/j.compag.2025.109898), was accepted by *Computers and Electronics in Agriculture* (CAS Q1 TOP).
+[Process Over Outcome: Cultivating Forensic Reasoning for Generalizable Multimodal Manipulation Detection](https://arxiv.org/abs/2603.01993)
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">Apr 2024</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#fef3c7; color:#b45309; font-size:0.82em; font-weight:600;">Precision Agriculture</span>
-  My co-first-author paper, [*DAE-Mask: a novel deep-learning-based automatic detection model for in-field wheat diseases*](https://link.springer.com/article/10.1007/s11119-023-10093-x), was accepted by *Precision Agriculture* (JCR Q1).
+**Yuchen Zhang**, Yaxiong Wang, Kecheng Han, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
 
-- <span style="display:inline-block; padding:2px 10px; border-radius:999px; background:#f3f4f6; color:#111827; font-size:0.85em; font-weight:600;">2022</span>
-  <span style="display:inline-block; padding:2px 8px; border-radius:6px; background:#e0f2fe; color:#0369a1; font-size:0.82em; font-weight:600;">EI Journal</span>
-  My second-author paper and first published academic work, [*Identification of Wheat Stripe Rust and Yellow Dwarf by Improved Faster-RCNN*](https://tcsae.org/cn/article/Y2022/I17/176), was accepted by *Transactions of the Chinese Society of Agricultural Engineering*.
+Association for Computational Linguistics (ACL), 2026.
 
+[**Paper**](https://arxiv.org/abs/2603.01993)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src="{{ '/images/Geomag.png' | relative_url }}" alt="ICME 2026 paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoMag: Geometric-Aware Video Motion Magnification via State Space Model](https://arxiv.org/abs/2605.29762)
+
+Kecheng Han^, **Yuchen Zhang^**, Bingqing Liu, Boqiang Guo, Wenbin Zheng, Shiyuan Pei
+
+IEEE International Conference on Multimedia and Expo (ICME), 2026. <span style="color:red">(Spotlight)</span>
+
+[**Paper**](https://arxiv.org/abs/2605.29762) [**Code**](https://github.com/scottHankcheng/GeoMag)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src="{{ '/images/CVPR26.png' | relative_url }}" alt="CVPR 2026 paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts](https://arxiv.org/abs/2505.17476)
+
+**Yuchen Zhang**, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+
+Computer Vision and Pattern Recognition (CVPR), 2026.
+
+[**Paper**](https://arxiv.org/abs/2505.17476) [**Code**](https://github.com/YcZhangSing/AMD)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMPAG 2025</div><img src="{{ '/images/Unsupervised_compag.png' | relative_url }}" alt="Computers and Electronics in Agriculture 2025 paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised domain adaptation semantic segmentation method for wheat disease detection based on UAV multispectral images](https://doi.org/10.1016/j.compag.2025.110473)
+
+**Yuchen Zhang**, Xingan Hao, Feilong Li, Zexi Wang, Dongxiang Li, Mei Li, Rui Mao
+
+Computers and Electronics in Agriculture, 2025, (JCR Q1, IF=10.3)
+
+[**Paper**](https://doi.org/10.1016/j.compag.2025.110473)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMPAG 2025</div><img src="{{ '/images/Dual-Branch_compag.png' | relative_url }}" alt="Computers and Electronics in Agriculture Dual-Branch paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detecting wheat yellow dwarf disease by employing a Dual-Branch multiscale model from UAV multispectral images](https://doi.org/10.1016/j.compag.2025.109898)
+
+Xingan Hao, Zexi Wang, **Yuchen Zhang**, Feilong Li, Meili Wang, Jialin Li, Rui Mao
+
+Computers and Electronics in Agriculture, 2025, (JCR Q1, IF=10.3)
+
+[**Paper**](https://doi.org/10.1016/j.compag.2025.109898)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Prec. Agric. 2024</div><img src="{{ '/images/DAE_mask.png' | relative_url }}" alt="Precision Agriculture 2024 paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DAE-Mask: a novel deep-learning-based automatic detection model for in-field wheat diseases](https://link.springer.com/article/10.1007/s11119-023-10093-x)
+
+Rui Mao^, **Yuchen Zhang^**, Zexi Wang, Xingan Hao, Tao Zhu, Shengchang Gao, Xiaoping Hu
+
+Precision Agriculture, 2024, (JCR Q1, IF=7.6)
+
+[**Paper**](https://link.springer.com/article/10.1007/s11119-023-10093-x)
+</div>
+</div>
 
 
 ## Preprints 📄
+{: #preprints}
 
 <section class="preprint-timeline" aria-label="Preprints">
   <article class="preprint-card">
@@ -173,10 +237,12 @@ My master's research is supervised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/
 
 
 ## Academic Service 📝
+{: #academic-service}
 
 <section class="academic-service-panel" aria-label="Academic service">
   <div class="academic-service-panel__label">Reviewer</div>
   <div class="academic-service-panel__venues">
+    <span>IEEE T-NNLS</span>
     <span>ACM SIGIR</span>
     <span>IJCNN</span>
   </div>
@@ -185,6 +251,7 @@ My master's research is supervised by [Prof. Li Zhu](https://gr.xjtu.edu.cn/web/
 
 
 ## Awards 🏆
+{: #awards}
 
 <ul style="list-style:none; padding-left:0; margin:0;">
   <li style="margin:0 0 12px 0; padding:12px 14px; border:1px solid #e5e7eb; border-radius:12px; background:#fafafa;">

@@ -419,3 +419,95 @@
     animation: none;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.anchor,
+#about-me,
+#news,
+#publications,
+#preprints,
+#academic-service,
+#awards {
+  scroll-margin-top: calc(#{$masthead-height} + 12px);
+}
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--global-border-color);
+  padding: 2em 0;
+
+  .paper-box-image {
+    position: relative;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+
+    > div {
+      position: relative;
+      width: 100%;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 400px;
+      box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.28);
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+
+    > p {
+      margin-bottom: 0.6em;
+    }
+
+    > p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: left;
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 60%;
+      order: 2;
+    }
+  }
+}
+
+.badge {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: absolute;
+  margin-top: 0.5em;
+  margin-left: -0.5em;
+  color: #fff;
+  background-color: #00369f;
+  font-size: 0.8em;
+  z-index: 1;
+}
