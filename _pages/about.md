@@ -167,7 +167,7 @@ Precision Agriculture, 2024, (JCR Q1, IF=7.6)
 <section class="preprint-timeline" aria-label="Preprints">
   <article class="preprint-card">
     <div class="preprint-card__thumb">
-      <img src="{{ '/images/ARISE_shown.png' | relative_url }}" alt="Thumbnail for ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection" loading="lazy">
+      <img src="{{ '/images/ARISE_shown2.png' | relative_url }}" alt="Thumbnail for ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection" loading="lazy">
     </div>
     <div class="preprint-card__body">
       <h3>ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection</h3>
