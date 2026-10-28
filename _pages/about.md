@@ -167,6 +167,19 @@ Precision Agriculture, 2024, (JCR Q1, IF=7.6)
 <section class="preprint-timeline" aria-label="Preprints">
   <article class="preprint-card">
     <div class="preprint-card__thumb">
+      <img src="{{ '/images/ARISE_shown.png' | relative_url }}" alt="Thumbnail for ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection" loading="lazy">
+    </div>
+    <div class="preprint-card__body">
+      <h3>ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection</h3>
+      <div class="preprint-card__links">
+        <a href="https://arxiv.org/abs/2610.36509" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Paper</span></a>
+        <a href="https://github.com/YcZhangSing/ARISE" target="_blank" rel="noopener noreferrer"><i class="fas fa-code" aria-hidden="true"></i><span>Code</span></a>
+      </div>
+    </div>
+  </article>
+
+  <article class="preprint-card">
+    <div class="preprint-card__thumb">
       <img src="{{ '/images/2606.17871.png' | relative_url }}" alt="Thumbnail for StepGuard: Guarding Web Navigation via Single-Step Calibration" loading="lazy">
     </div>
     <div class="preprint-card__body">
